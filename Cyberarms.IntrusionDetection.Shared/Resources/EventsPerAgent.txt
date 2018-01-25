@@ -1,0 +1,24 @@
+                                                    
+                                                    <tr style="mso-yfti-irow:2">
+                                                        <td style="padding:3.75pt 0cm 3.75pt 3.75pt; text-align:left;">
+                                                            <p class="MsoNormal">
+                                                                
+                                                                <span style="font-size:10.5pt;font-family:&quot;Helvetica&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#445566">[%AGENT_NAME%]</span>
+                                                            </p>
+                                                        </td>
+                                                        <td style="padding:3.75pt 0cm 3.75pt 0cm">
+                                                            <p align="right" class="MsoNormal" style="text-align:right">
+                                                                <span style="font-size:10.5pt;font-family:&quot;Helvetica&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#445566">[%INTRUSION_ATTEMPTS%]</span>
+                                                            </p>
+                                                        </td>
+							 <td style="padding:3.75pt 0cm 3.75pt 0cm">
+                                                            <p align="right" class="MsoNormal" style="text-align:right">
+                                                                <span style="font-size:10.5pt;font-family:&quot;Helvetica&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#445566">[%SOFT_LOCKS%]</span>
+                                                            </p>
+                                                        </td>
+							 <td style="padding:3.75pt 3.75pt 3.75pt 0cm">
+                                                            <p align="right" class="MsoNormal" style="text-align:right">
+                                                                <span style="font-size:10.5pt;font-family:&quot;Helvetica&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#445566">[%HARD_LOCKS%]</span>
+                                                            </p>
+                                                        </td>
+                                                    </tr>

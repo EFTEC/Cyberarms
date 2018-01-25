@@ -1,0 +1,317 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        
+        <!-- Facebook sharing information tags -->
+        <meta property="og:title" content="[%TITLE%]" />
+        
+        <title>[%TITLE%]</title>
+    <style type="text/css">
+
+ p.MsoNormal
+  {margin-bottom:.0001pt;
+  font-size:12.0pt;
+  font-family:"Times New Roman","serif";
+          margin-left: 0cm;
+            margin-right: 0cm;
+            margin-top: 0cm;
+        }
+p
+  {margin-right:0cm;
+  margin-left:0cm;
+  font-size:12.0pt;
+  font-family:"Times New Roman","serif";
+  }
+ table.MsoNormalTable
+  {font-size:10.0pt;
+  font-family:"Times New Roman","serif";
+        }
+a:link
+  {color:blue;
+  text-decoration:underline;
+  text-underline:single;
+        }
+    </style>
+</head>
+<body>
+
+    <p class="MsoNormal">
+        </p>
+    <table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable"
+        style="width: 100.0%; mso-cellspacing: 0cm; background: #F4F5F7; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 0cm 22.5pt 0cm"
+        width="100%">
+        <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes">
+            <td style="padding:0cm 0cm 22.5pt 0cm">
+                <div align="center">
+                    <table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:450.0pt;mso-cellspacing:0cm;mso-yfti-
+tbllook:1184;mso-padding-alt:
+   0cm 0cm 0cm 0cm" width="600">
+                     <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
+                            <td style="padding:7.5pt 0cm 15.0pt 0cm">
+                                <p align="center" class="MsoNormal" style="text-align:center">
+                                </p>
+                            </td>
+                        </tr>   
+                        
+                        <tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes">
+                            <td style="border-top:none;border-left:dotted #D6D7D8 1.0pt;border-bottom:
+    solid #D6D7D8 2.25pt;border-right:dotted #D6D7D8 1.0pt;mso-border-left-alt:
+    dotted #D6D7D8 .75pt;mso-border-bottom-alt:solid #D6D7D8 2.25pt;mso-border-right-alt:
+    dotted #D6D7D8 .75pt;padding:0cm 0cm 0cm 0cm">
+                                <div align="center">
+                                    <table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable"
+                                        style="width: 100.0%; mso-cellspacing: 0cm; background: white; mso-yfti-tbllook: 1184; mso-padding-alt: 
+22.5pt 22.5pt 22.5pt 22.5pt; color#456"
+                                        width="100%">
+                                        <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes">
+                                            <td style="padding:22.5pt 22.5pt 22.5pt 22.5pt">
+                                                <p align="center" style="margin-top:3.75pt;margin-right:0cm;margin-bottom:
+      18.75pt;margin-left:0cm;text-align:center">
+                                                    <a href="http://www.cyberarms.net" target="_blank">
+                                                    <span style="color:#2288CC;text-decoration:none;
+      text-underline:none">
+                                                    <img id="_x0000_i1026" alt="Cyberarms Intrusion Detection and Defense System" border="0"
+                                                        src="http://de.cyberarms.net/media/5160/cyberarms-paladin-brand.png" width="198" 
+/></span></a></p>
+<!------------------------- Headline & Text --------------------------------->
+                                                <p style="margin-top:11.25pt;margin-right:0cm;margin-bottom:11.25pt;
+      margin-left:0cm; text-align:left;">
+                                                    <strong>
+                                                    <span style="font-size:18.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+      color:#445566">[%TITLE%]</span></strong></p>
+                                                <p style="margin:0cm;margin-bottom:.0001pt; text-align:left;">
+                                                    <span style="font-size:13.5pt;
+      font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:#445566">[%SUBTITLE%]</span></p>
+                                                
+<!------------------------- Subheadline & Info --------------------------------->
+                                                <p style="margin-top:15.0pt;margin-right:0cm;margin-bottom:7.5pt;
+      margin-left:0cm; text-align:left;">
+                                                    <strong>
+                                                    <span style="font-size:13.5pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+      color:#445566">Installation Information</span></strong><span
+                                                        style="font-size:13.5pt;font-family:&quot;Arial&quot;,&quot;sans-
+serif&quot;;color:#445566"></span></p>
+                                                <p style="margin-top:0cm;margin-right:0cm;margin-bottom:11.25pt;
+      margin-left:0cm;line-height:18.0pt; text-align:left;">
+                                                    <span style="font-size:10.5pt;
+      font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:#445566">[%INSTALLATION_INFORMATION%]</span></p>
+<!------------------------- Events per Agent  --------------------------------->
+                                                <p style="margin-top:15.0pt;margin-right:0cm;margin-bottom:7.5pt;
+      margin-left:0cm; text-align:left;">
+                                                    <strong>
+                                                    <span style="font-size:13.5pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+      color:#445566">Events per Agent</span></strong><span style="font-size:13.5pt;
+      font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:#445566"></span></p>
+                                                <table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable"
+                                                    style="width: 100.0%; mso-cellspacing: 0cm; background: whitesmoke; mso-yfti-tbllook: 1184; mso-
+padding-alt: 7.5pt 11.25pt 7.5pt 11.25pt"
+                                                    width="100%">
+
+                                                      
+                                                    <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
+                                                        <td style="padding:3.75pt 0cm 3.75pt 3.75pt; text-align:left;">
+                                                            <p class="MsoNormal">
+                                                                <strong>
+                                                                <span style="font-size:10.5pt;font-family:&quot;Helvetica&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#445566">Agent name</span></strong>
+                                                            </p>
+                                                        </td>
+                                                        <td style="padding:3.75pt 0cm 3.75pt 0cm">
+                                                            <p align="right" class="MsoNormal" style="text-align:right">
+                                                                <strong><span style="font-size:10.5pt;font-family:&quot;Helvetica&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#445566">Intrusion attempts</span></strong>
+                                                            </p>
+                                                        </td>
+							<td style="padding:3.75pt 0cm 3.75pt 0cm">
+                                                            <p align="right" class="MsoNormal" style="text-align:right">
+                                                                <strong><span style="font-size:10.5pt;font-family:&quot;Helvetica&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#445566">Soft locks</span></strong>
+                                                            </p>
+                                                        </td>
+							<td style="padding:3.75pt 3.75pt 3.75pt 0cm">
+                                                            <p align="right" class="MsoNormal" style="text-align:right">
+                                                                <strong><span style="font-size:10.5pt;font-family:&quot;Helvetica&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#445566">Hard locks</span></strong>
+                                                            </p>
+                                                        </td>
+                                                    </tr>
+												[%EVENTS_PER_AGENT%]
+                                              
+
+                                                    <tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes">
+                                                        <td style="border:none;border-top:dotted #CCCCCC 1.0pt;mso-border-top-alt:dotted #CCCCCC .75pt;padding:7.5pt 0cm 3.75pt 3.75pt; text-align:left;">
+                                                            <p class="MsoNormal">
+                                                                <strong>
+                                                                <span style="font-size:10.5pt;font-family:&quot;Helvetica&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#445566">Total</span></strong>
+                                                            </p>
+                                                        </td>
+                                                        <td style="border:none;border-top:dotted #CCCCCC 1.0pt;mso-border-top-alt:dotted #CCCCCC .75pt;padding:7.5pt 0cm 3.75pt 0cm">
+                                                            <p align="right" class="MsoNormal" style="text-align:right">
+                                                                <strong>
+                                                                <span style="font-size:10.5pt;font-family:&quot;Helvetica&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#445566">[%TOTAL_INTRUSION_ATTEMPTS%]</span></strong>
+                                                            </p>
+                                                        </td>
+							<td style="border:none;border-top:dotted #CCCCCC 1.0pt;mso-border-top-alt:dotted #CCCCCC .75pt;padding:7.5pt 0cm 3.75pt 0cm">
+                                                            <p align="right" class="MsoNormal" style="text-align:right">
+                                                                <strong>
+                                                                <span style="font-size:10.5pt;font-family:&quot;Helvetica&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#445566">[%TOTAL_SOFT_LOCKS%]</span></strong>
+                                                            </p>
+                                                        </td>
+							<td style="border:none;border-top:dotted #CCCCCC 1.0pt;mso-border-top-alt:dotted #CCCCCC .75pt;padding:7.5pt 3.75pt 3.75pt 0cm">
+                                                            <p align="right" class="MsoNormal" style="text-align:right">
+                                                                <strong>
+                                                                <span style="font-size:10.5pt;font-family:&quot;Helvetica&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#445566">[%TOTAL_HARD_LOCKS%]</span></strong>
+                                                            </p>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+<!------------------------- Intrusion attempts by IP  --------------------------------->
+                                                <p style="margin-top:15.0pt;margin-right:0cm;margin-bottom:7.5pt;margin-left:0cm; text-align:left;">
+                                                    <strong>
+                                                    <span style="font-size:13.5pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:#445566">Intrusion attempts by IP address</span></strong><span style="font-size:13.5pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:#445566"></span></p>
+                                                <table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width: 100.0%; mso-cellspacing: 0cm; background: whitesmoke; mso-yfti-tbllook: 1184; mso-padding-alt: 7.5pt 11.25pt 7.5pt 11.25pt" width="100%">
+											        <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
+                                                        <td style="padding:3.75pt 0cm 3.75pt 3.75pt; text-align:left;">
+                                                            <p class="MsoNormal">
+                                                                <strong>
+                                                                <span style="font-size:10.5pt;font-family:&quot;Helvetica&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#445566">Client IP</span></strong>
+                                                            </p>
+                                                        </td>
+                                                        
+							<td style="padding:3.75pt 3.75pt 3.75pt 0cm">
+                                                            <p align="right" class="MsoNormal" style="text-align:right">
+                                                                <strong><span style="font-size:10.5pt;font-family:&quot;Helvetica&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#445566">Intrusion attempts</span></strong>
+															</p>
+                                                        </td>
+                                                    </tr>
+
+													[%INTRUSION_ATTEMPTS_BY_IP%]
+                                              
+
+                                                    <tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes">
+                                                        <td style="border:none;border-top:dotted #CCCCCC 1.0pt;mso-border-top-alt:dotted #CCCCCC .75pt;padding:7.5pt 0cm 3.75pt 3.75pt; text-align:left;">
+															<p class="MsoNormal">
+                                                                <strong>
+                                                                <span style="font-size:10.5pt;font-family:&quot;Helvetica&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#445566">Total</span></strong>
+                                                            </p>
+                                                        </td>                                                        
+							<td style="border:none;border-top:dotted #CCCCCC 1.0pt;mso-border-top-alt:
+        dotted #CCCCCC .75pt;padding:7.5pt 3.75pt 3.75pt 0cm">
+                                                            <p align="right" class="MsoNormal" style="text-align:right">
+                                                                <strong>
+                                                                <span style="font-size:10.5pt;font-family:&quot;Helvetica&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#445566">[%TOTAL_INTRUSION_ATTEMPTS%]</span></strong>
+                                                            </p>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+
+<!------------------------- Soft locks by IP  --------------------------------->
+                                                <p style="margin-top:15.0pt;margin-right:0cm;margin-bottom:7.5pt;margin-left:0cm; text-align:left;">
+                                                    <strong>
+                                                    <span style="font-size:13.5pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:#445566">Soft locks by IP address</span></strong><span style="font-size:13.5pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:#445566"></span></p>
+                                                <table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable"
+                                                    style="width: 100.0%; mso-cellspacing: 0cm; background: whitesmoke; mso-yfti-tbllook: 1184; mso-padding-alt: 7.5pt 11.25pt 7.5pt 11.25pt" width="100%">
+													<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
+                                                        <td style="padding:3.75pt 0cm 3.75pt 3.75pt; text-align:left;">
+                                                            <p class="MsoNormal">
+                                                                <strong>
+                                                                <span style="font-size:10.5pt;font-family:&quot;Helvetica&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#445566">Client IP</span></strong>
+                                                            </p>
+                                                        </td>
+                                                        
+							<td style="padding:3.75pt 3.75pt 3.75pt 0cm">
+                                                            <p align="right" class="MsoNormal" style="text-align:right">
+                                                                <strong><span style="font-size:10.5pt;font-family:&quot;Helvetica&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#445566">Soft locks</span></strong>
+															</p>
+                                                        </td>
+                                                    </tr>
+                                              
+											  [%SOFT_LOCKS_BY_IP%]
+                                                    
+
+                                                    <tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes">
+                                                        <td style="border:none;border-top:dotted #CCCCCC 1.0pt;mso-border-top-alt:dotted #CCCCCC .75pt;padding:7.5pt 0cm 3.75pt 3.75pt; text-align:left;">
+                                                            <p class="MsoNormal">
+                                                                <strong>
+                                                                <span style="font-size:10.5pt;font-family:&quot;Helvetica&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#445566">Total</span></strong>
+                                                            </p>
+                                                        </td>
+                                                        
+							<td style="border:none;border-top:dotted #CCCCCC 1.0pt;mso-border-top-alt:dotted #CCCCCC .75pt;padding:7.5pt 3.75pt 3.75pt 0cm">
+                                                            <p align="right" class="MsoNormal" style="text-align:right">
+                                                                <strong>
+                                                                <span style="font-size:10.5pt;font-family:&quot;Helvetica&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#445566">[%TOTAL_SOFT_LOCKS%]</span></strong>
+                                                            </p>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+<!------------------------- Hard locks by IP  --------------------------------->
+                                                <p style="margin-top:15.0pt;margin-right:0cm;margin-bottom:7.5pt;margin-left:0cm; text-align:left;">
+                                                    <strong>
+                                                    <span style="font-size:13.5pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:#445566">Hard locks by IP address</span></strong><span style="font-size:13.5pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:#445566"></span></p>
+                                                <table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable"
+                                                    style="width: 100.0%; mso-cellspacing: 0cm; background: whitesmoke; mso-yfti-tbllook: 1184; mso-padding-alt: 7.5pt 11.25pt 7.5pt 11.25pt" width="100%">
+													<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
+                                                        <td style="padding:3.75pt 0cm 3.75pt 3.75pt; text-align:left;">
+                                                            <p class="MsoNormal">
+                                                                <strong>
+                                                                <span style="font-size:10.5pt;font-family:&quot;Helvetica&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#445566">Client IP</span></strong>
+                                                            </p>
+                                                        </td>
+                                                        
+							<td style="padding:3.75pt 3.75pt 3.75pt 0cm">
+                                                            <p align="right" class="MsoNormal" style="text-align:right">
+                                                                <strong><span style="font-size:10.5pt;font-family:&quot;Helvetica&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#445566">Hard locks</span></strong>
+                                                            </p>
+                                                        </td>
+                                                    </tr>
+                                              
+											  [%HARD_LOCKS_BY_IP%]
+											        
+                                                    <tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes">
+                                                        <td style="border:none;border-top:dotted #CCCCCC 1.0pt;mso-border-top-alt:dotted #CCCCCC .75pt;padding:7.5pt 0cm 3.75pt 3.75pt; text-align:left;">
+                                                            <p class="MsoNormal">
+                                                                <strong>
+                                                                <span style="font-size:10.5pt;font-family:&quot;Helvetica&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#445566">Total</span></strong>
+                                                            </p>
+                                                        </td>
+                                                        
+							<td style="border:none;border-top:dotted #CCCCCC 1.0pt;mso-border-top-alt:dotted #CCCCCC .75pt;padding:7.5pt 3.75pt 3.75pt 0cm">
+                                                            <p align="right" class="MsoNormal" style="text-align:right">
+                                                                <strong>
+                                                                <span style="font-size:10.5pt;font-family:&quot;Helvetica&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#445566">[%TOTAL_HARD_LOCKS%]</span></strong>
+                                                            </p>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+<!------------------------- Info  --------------------------------->
+                                                <p class="MsoNormal">
+                                                    <span style="mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p>
+                                                <p style="margin-top:20pt;margin-right:0cm;margin-bottom:11.25pt;margin-left:0cm;line-height:18.0pt; text-align:left;">
+                                                    <span style="font-size:10.5pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:#445566"> </span>
+                                                </p>
+                                                <p style="margin-top:11.25pt;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;margin-bottom:.0001pt;line-height:18.0pt; text-align:left;">
+                                                    <i>
+                                                    <span style="font-size:10.5pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:#445566">
+                                                    </span></i></p>
+                                                <p style="margin-top:11.25pt;margin-right:0cm;margin-bottom:11.25pt;margin-left:0cm;line-height:18.0pt; text-align:left;">
+                                                    <span style="font-size:9.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:#445566">To configure reporting options, please use the IDDS administration software on your server.</span></p>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </div>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+                
+            </td>
+        </tr>
+    </table>
+   
+
+</body>
+</html>
+
+    
+    
+    
+    
+    
